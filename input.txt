@@ -1,7 +1,4 @@
-int
-bool
-;
-/
--
-66
-asd
+int sum()
+int sum () {}
+int sum (; //
+int sum { //
